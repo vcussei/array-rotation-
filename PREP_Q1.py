@@ -23,7 +23,7 @@ def rev_(y):
         for x in range (0, len(New_arr_)):
                 val4 = New_arr_[x]
                 New_arr_2.append(val4)
-        #print reverse array 
+        #print rotated array 
         print("The reversed array: ")
         for x in range (0, len(New_arr_2)):
             print (New_arr_2[x], end=" ")
